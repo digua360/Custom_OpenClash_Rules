@@ -10,4 +10,4 @@ DOMAIN-SUFFIX,coemn.com
 # youno
 DOMAIN,dmit.younoyes.com
 # 苹果商店
-DOMAIN,buy.itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
