@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,coemn.com
 DOMAIN,dmit.younoyes.com
 # 苹果商店
 HOST-SUFFIX,itunes.apple.com
+# 建安题库
+HOST-SUFFIX,tiku.jiruixuexiao.com
+
