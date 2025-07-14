@@ -5,8 +5,6 @@ IP-CIDR,154.17.232.106/32,no-resolve
 
 # 网站
 DOMAIN-SUFFIX,outong-valve.com
-# youno
-DOMAIN,dmit.younoyes.com
 # 苹果商店
 HOST-SUFFIX,itunes.apple.com
 # 建安题库
