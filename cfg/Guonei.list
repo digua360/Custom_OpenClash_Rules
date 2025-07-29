@@ -9,4 +9,6 @@ DOMAIN-SUFFIX,outong-valve.com
 HOST-SUFFIX,itunes.apple.com
 # 建安题库
 HOST-SUFFIX,tiku.jiruixuexiao.com
+# > lily直连线路
+HOST-SUFFIX,cdn.lilyemby.my
 
