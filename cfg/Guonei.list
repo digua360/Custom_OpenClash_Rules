@@ -6,9 +6,9 @@ IP-CIDR,154.17.232.106/32,no-resolve
 # 网站
 DOMAIN-SUFFIX,outong-valve.com
 # 苹果商店
-HOST-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
 # 建安题库
-HOST-SUFFIX,tiku.jiruixuexiao.com
+DOMAIN-SUFFIX,tiku.jiruixuexiao.com
 # > lily直连线路
-HOST-SUFFIX,cdn.lilyemby.my
+DOMAIN-SUFFIX,cdn.lilyemby.my
 
