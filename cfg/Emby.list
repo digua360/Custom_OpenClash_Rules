@@ -1,0 +1,23 @@
+#======================================#
+#禁止日本服务器的emby服
+#======================================#
+
+# > 卷毛鼠
+DOMAIN-SUFFIX,jmsuper.com
+# > Paul电报服
+DOMAIN-SUFFIX,imetyou.top
+# > misty
+DOMAIN-SUFFIX,misty.cx
+# > youno
+DOMAIN-SUFFIX,younoyes.com
+# > 纸片人
+DOMAIN-SUFFIX,embyplus.org
+# > 入机emby
+DOMAIN-SUFFIX,rjf37.com
+DOMAIN-SUFFIX,xytx.org
+# > CineTrail（影迹）
+DOMAIN-SUFFIX,123456789.lol
+# > 临境 Liminal
+DOMAIN-SUFFIX,liminalnet.com
+# > 105°动漫服
+DOMAIN-SUFFIX,ciallo.party

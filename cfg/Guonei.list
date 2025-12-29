@@ -1,0 +1,16 @@
+#国内网站自定义
+#====================================================
+# IP段匹配
+IP-CIDR,154.17.232.106/32,no-resolve
+
+# 网站
+DOMAIN-SUFFIX,outong-valve.com
+# 苹果商店
+DOMAIN-SUFFIX,itunes.apple.com
+# 建安题库
+DOMAIN-SUFFIX,tiku.jiruixuexiao.com
+# > lily直连线路
+DOMAIN-SUFFIX,cdn.lilyemby.my
+DOMAIN-SUFFIX,o1.lilyemby.my
+DOMAIN-SUFFIX,o3.lilyemby.my
+DOMAIN-SUFFIX,tx.lilyemby.my
