@@ -2,6 +2,24 @@
 #emby服务器
 #======================================#
 
+# > Paul电报服
+DOMAIN-SUFFIX,imetyou.top
+# > misty
+DOMAIN-SUFFIX,misty.cx
+# > youno
+DOMAIN-SUFFIX,younoyes.com
+# > 纸片人
+DOMAIN-SUFFIX,embyplus.org
+# > 入机emby
+DOMAIN-SUFFIX,rjf37.com
+DOMAIN-SUFFIX,xytx.org
+# > CineTrail（影迹）
+DOMAIN-SUFFIX,123456789.lol
+# > 临境 Liminal
+DOMAIN-SUFFIX,liminalnet.com
+# > 105°动漫服
+DOMAIN-SUFFIX,ciallo.party
+
 # > 终点站
 DOMAIN-SUFFIX,emby.wtf
 # > 飞越彩虹
@@ -31,7 +49,7 @@ DOMAIN-SUFFIX,itsmyduty.top
 # > 稳健
 DOMAIN-SUFFIX,wenjian.de
 # > Lily
-DOMAIN-SUFFIX,lilyemby.my
+DOMAIN-SUFFIX,lilyemby.com
 # > 飞跃银河
 DOMAIN-SUFFIX,yhemby.top
 # > aurora极光
@@ -62,6 +80,7 @@ DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,nanflix.net
 # > CC公益
 DOMAIN-SUFFIX,coemn.com
+DOMAIN-SUFFIX,embycc.link
 # > pilipiliultra
 DOMAIN-SUFFIX,pilipiliultra.com
 # > 比比
@@ -82,3 +101,17 @@ DOMAIN-SUFFIX,114514.quest
 DOMAIN-SUFFIX,shrekmedia.org
 # > PlayZ-国产H服
 DOMAIN-SUFFIX,mjji.de
+# > SNTP
+DOMAIN-SUFFIX,cn2gias.uk
+# > Nebula-media
+DOMAIN-SUFFIX,nebula-media.org
+# > OK emby
+DOMAIN-SUFFIX,okemby.org
+# > Mirai emby 
+DOMAIN-SUFFIX,miraiemby.com
+#   南瓜音乐
+DOMAIN-SUFFIX,nangua.de
+#   音海拾贝音乐
+DOMAIN-SUFFIX,aiinyue.com
+#   未响海外线路
+DOMAIN-SUFFIX,mefun.org
