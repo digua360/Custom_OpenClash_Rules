@@ -49,8 +49,10 @@ DOMAIN-SUFFIX,chilledmelon.com
 DOMAIN-SUFFIX,itsmyduty.top
 # > 稳健
 DOMAIN-SUFFIX,wenjian.de
-# > Lily
+# > Lily 登录地址
 DOMAIN-SUFFIX,lilyemby.com
+# > Lily 播放地址
+DOMAIN-SUFFIX,lilyemby.cc
 # > 飞跃银河
 DOMAIN-SUFFIX,yhemby.top
 # > aurora极光
