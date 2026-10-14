@@ -1,7 +1,7 @@
 #======================================#
 #emby服务器
 #======================================#
-# > 卷毛鼠
+# > 卷毛鼠,假日旅馆
 DOMAIN-SUFFIX,jmsuper.com
 DOMAIN-SUFFIX,cr18.eu.org
 # > Paul电报服
@@ -12,16 +12,8 @@ DOMAIN-SUFFIX,misty.cx
 DOMAIN-SUFFIX,younoyes.com
 # > 纸片人
 DOMAIN-SUFFIX,embyplus.org
-# > 入机emby
-DOMAIN-SUFFIX,rjf37.com
-DOMAIN-SUFFIX,xytx.org
-# > CineTrail（影迹）
-DOMAIN-SUFFIX,123456789.lol
 # > 临境 Liminal
 DOMAIN-SUFFIX,liminalnet.com
-# > 105°动漫服
-DOMAIN-SUFFIX,ciallo.party
-
 # > 终点站
 DOMAIN-SUFFIX,emby.wtf
 # > 飞越彩虹
@@ -31,9 +23,7 @@ DOMAIN-SUFFIX,emby.kim
 # > 墨云阁
 DOMAIN-SUFFIX,mobaiemby.site
 # > peach
-DOMAIN-SUFFIX,embymv.link
-# > 卡戎
-DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX,embymv.cc
 # > 见手青
 DOMAIN-SUFFIX,vban.xyz
 # > 惊蛰
@@ -56,28 +46,18 @@ DOMAIN-SUFFIX,lilyemby.com
 # > Lily 播放地址
 DOMAIN-SUFFIX,lilyemby.cc
 DOMAIN-SUFFIX,fastboostcdn.com
-# > 飞跃银河
-DOMAIN-SUFFIX,yhemby.top
-# > aurora极光
-DOMAIN-SUFFIX,auroramedia.vip
 # > nya
 DOMAIN-SUFFIX,bangumi.ca
 # > pilipili
 DOMAIN-SUFFIX,pilipiliultra.com
-# > 星星自建
-DOMAIN-SUFFIX,0102.top
 # > saturday
 DOMAIN-SUFFIX,saturdayvideo.top
 # > plumber
 DOMAIN-SUFFIX,nezhasu.com
 # > 叶子网盘高码
 DOMAIN-SUFFIX,lyezi.cc
-# > ZN影视库
-DOMAIN-SUFFIX,zn.al
-# > 疯狂星期四
-DOMAIN-SUFFIX,v50.su
-# > ZOX
-DOMAIN-SUFFIX,3767483.xyz
+# > 月饼
+DOMAIN-SUFFIX,emby.my
 # > MSKY
 DOMAIN-SUFFIX,3msky.com
 # > 起点站公益
@@ -87,18 +67,8 @@ DOMAIN-SUFFIX,nanflix.net
 # > CC公益
 DOMAIN-SUFFIX,coemn.com
 DOMAIN-SUFFIX,mnyvc.xyz
-# > pilipiliultra
-DOMAIN-SUFFIX,pilipiliultra.com
-# > 比比
-DOMAIN-SUFFIX,beebi.org
-# > flybody肥牛
-DOMAIN-SUFFIX,feiniu.lol
 # > 飞了个喵
 DOMAIN-SUFFIX,meowfly.de
-# > 土匪
-DOMAIN-SUFFIX,tufei.de
-# > STAR
-DOMAIN-SUFFIX,staryuki.com
 # > 游骑兵
 DOMAIN-SUFFIX,heisi.org
 DOMAIN-SUFFIX,alien666.de5.net
@@ -106,8 +76,6 @@ DOMAIN-SUFFIX,alien666.de5.net
 DOMAIN-SUFFIX,114514.quest
 # > shrekmedia
 DOMAIN-SUFFIX,shrekmedia.org
-# > PlayZ-国产H服
-DOMAIN-SUFFIX,mjji.de
 # > SNTP
 DOMAIN-SUFFIX,cn2gias.uk
 # > Nebula-media
